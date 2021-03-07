@@ -7,7 +7,7 @@
 |Reach Me 📝| [![Gmail Badge](https://img.shields.io/badge/-Aayush%20Kumar-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:ayushk780@gmail.com) &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Ayushk1804-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayushk1804/)|
 |---------|-------------------|
 
-<img align="right" src="https://media1.tenor.com/images/0d1329f5ff7d31712e3d12ce160df6ec/tenor.gif" height="200"/>
+<img align="right" src="https://media1.tenor.com/images/6ffe37e72b3276fef1f0b08d9cd41813/tenor.gif" height="200"/>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🧐 I am currently learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
