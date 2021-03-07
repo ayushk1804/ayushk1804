@@ -1,8 +1,22 @@
-### Hi there 👋
-
 <!--
 **ayushk1804/ayushk1804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/ayushk1804/">Aayush Kumar</a></h2>
+<p>I'm currently working as an Intern at <strong><a href="https://ongcindia.com/">ONGC</a></strong>, Delhi. I am working on some side projects and learning <strong><a href="" >Serverless Cloud Computing</a></strong>.
+
+|Reach Me 📝| [![Gmail Badge](https://img.shields.io/badge/-Aayush%20Kumar-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:ayushk780@gmail.com) &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Ayushk1804-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayushk1804/)|
+|---------|-------------------|
+
+<img align="right" src="https://media1.tenor.com/images/0d1329f5ff7d31712e3d12ce160df6ec/tenor.gif" height="200"/>
+<h2>⚡️ A Few Quick Facts</h2>
+<ul>
+<li>🧐 I am currently learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/ayushk1804">Github</a>.</li>
+<!-- <li>📝 I regulary write articles on <a href="">my blog</a>.</li> -->
+<li>💬 Ping me about <strong>python, web development, security, and cloud stuff</strong>.</li>
+<li>📙 Check out my <a href="https://resume.aayushkumar.workers.dev/0:/Aayush%20Resume.pdf">resume</a>.</li>
+</ul>
+<br/>
 
 Category                 | Values
 -------------------------|------
@@ -13,7 +27,7 @@ Domain Knownledge        | [![Cloud Computing Badge](https://img.shields.io/badg
 CI / CD                  | [![Github Actions Badge](https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat&logo=Github-Actions&logoColor=white)]()  [![Netlify](https://img.shields.io/static/v1?style=flat&message=Netlify&color=222222&logo=Netlify&logoColor=00C7B7&label=)]() [![Travis-CI Badge](https://img.shields.io/badge/-Travis%20CI-3EAAAF?style=flat&logo=Travis-CI&logoColor=white)]() [![Vercel](https://img.shields.io/static/v1?style=flat&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=)]() 
 Database               | [![PostgreSQL](https://img.shields.io/static/v1?style=flat&message=PostgreSQL&color=336791&logo=PostgreSQL&logoColor=FFFFFF&label=)]() [![MySQL](https://img.shields.io/static/v1?style=flat&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)]() [![SQLite](https://img.shields.io/static/v1?style=flat&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)]() [![MongoDB](https://img.shields.io/static/v1?style=flat&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)]()
 Reach Me                 | [![Gmail Badge](https://img.shields.io/badge/-Aayush%20Kumar-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:ayushk780@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Ayushk1804-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayushk1804/)
-___
+
 
 <img alt="Aayush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayushk1804&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&bg_color=0D1117" />
 <details> 
