@@ -2,7 +2,7 @@
 **ayushk1804/ayushk1804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/ayushk1804/">Aayush Kumar</a></h2>
-<p>I'm currently working as an Intern at <strong><a href="https://ongcindia.com/">ONGC</a></strong>, Delhi. I am working on some side projects and learning <strong><a href="" >Serverless Cloud Computing</a></strong>.
+<p>I am working on some side projects and learning <strong><a href="" >Serverless Cloud Computing</a></strong>.
 
 |Reach Me 📝| [![Gmail Badge](https://img.shields.io/badge/-Aayush%20Kumar-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:ayushk780@gmail.com) &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Ayushk1804-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayushk1804/)|
 |---------|-------------------|
